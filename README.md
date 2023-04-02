@@ -1,1 +1,1 @@
-All personal C projects starting from novice level
+All personal C projects starting from my novice level
